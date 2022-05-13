@@ -1,0 +1,42 @@
+[
+    {
+        "Id" : "1",
+        "Naziv" : "Staromodni mobitel",
+        "Proizvodac": "Nokia",
+        "Model" : "MOBITEL S TIPKAMA NOKIA 225 4G DUAL SIM BLACK",
+        "Cijena" : 449,
+        "Kolicina" : 0
+    },
+    {
+        "Id" : "2",
+        "Naziv" : "Pametni mobitel",
+        "Proizvodac": "Poco",
+        "Model" : "XIAOMI POCO M3 4GB RAM 64GB ROM",
+        "Cijena" : 1222,
+        "Kolicina" : 10
+    },
+    {
+        "Id" : "3",
+        "Naziv" : "Monitori",
+        "Proizvodac": "Samsung",
+        "Model" : "SAMSUNG 23.6IN LC24RG50FQRXEN, 2XHDMI, DP, 144HZ,FS",
+        "Cijena" : 1499,
+        "Kolicina" : 10
+    },
+    {
+        "Id" : "4",
+        "Naziv" : "Računalo",
+        "Proizvodac": "Apple",
+        "Model" : "APPLE IMAC M1 ČIP, 16 GB RAM-A, 256 GB SSD-A, 8-JEZGRENI GPU 24IN",
+        "Cijena" : 15600,
+        "Kolicina" : 3
+    },
+    {
+        "Id" : "5",
+        "Naziv" : "Pametni sat",
+        "Proizvodac": "CANYON",
+        "Model" : "SMART WATCH CANYON OREGANO SW-81 1.3 LCD ANDROID CRNO CRVENI",
+        "Cijena" : 500,
+        "Kolicina" : 80
+    }
+]
